@@ -1,3 +1,6 @@
-body{
-    background: black;
+.purple{
+    background-color: #d1c4e9;
+}
+.text-content{
+    height: 200px;
 }
